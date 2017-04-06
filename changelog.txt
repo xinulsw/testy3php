@@ -1,0 +1,12 @@
+2014.07.27
+Do tabeli winiki dodano kolumne mpkt (maksymalna ilość punktów z testu)
+2014.07.07
+Usunięcie tabeli gnp oraz kodu z nią związanego.
+Zmiana nazwy pola pgr na open w tabeli testg.
+Dodanie możliwości losowania pytań.
+2014.05.27
+Zmieniono tabele wynpyt (wid,pid,odp,wyn) i wynank (wid,pid,odp), dostosowano k: wyniki, p: ewyniki, code, tean.
+2014.05.06
+Do tabeli pytania dodano kolumnę "txt", do przechowywania tekstu do analizy.
+Uzupełniono model tabeli w klasie pytania.
+W tabeli skale dodano domyślną pustą skalę "Brak skali" o id 1, zaktualizowano pole skid w tabeli testy.  
